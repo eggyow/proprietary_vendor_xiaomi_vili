@@ -560,6 +560,7 @@ PRODUCT_PACKAGES += \
     libAF \
     libFlickerDet \
     libI420colorconvert \
+    libQnnHtpStub \
     libSNPE \
     lib_sr_models \
     libaidenoiser \
