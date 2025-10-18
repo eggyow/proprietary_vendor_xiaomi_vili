@@ -393,16 +393,10 @@ PRODUCT_PACKAGES += \
     libaudioconfigstore \
     libaudioparsers \
     libaudioroute_ext \
-    libbatterylistener \
     libcomprcapture \
-    libexthwplugin \
-    libhdmiedid \
     libhdmipassthru \
-    libhfp \
     libqtigef \
     libresampler \
-    libsndmonitor \
-    libspkrprot \
     libvideoNS \
     HDR10plus \
     com.qti.eeprom.vili_ofilm_ov16a1q_bl24sa64_front_eeprom \
