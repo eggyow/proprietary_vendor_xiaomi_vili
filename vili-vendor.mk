@@ -380,8 +380,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vili/proprietary/vendor_ramdisk/lib/firmware/st_fts_k3s.ftb:$(TARGET_COPY_OUT_VENDOR_RAMDISK)/lib/firmware/st_fts_k3s.ftb
 
 PRODUCT_PACKAGES += \
-    audio.primary.lahaina \
-    liba2dpoffload \
+    audio.primary.vili \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
@@ -404,7 +403,6 @@ PRODUCT_PACKAGES += \
     libresampler \
     libsndmonitor \
     libspkrprot \
-    libssrec \
     libvideoNS \
     HDR10plus \
     com.qti.eeprom.vili_ofilm_ov16a1q_bl24sa64_front_eeprom \
@@ -753,6 +751,8 @@ PRODUCT_PACKAGES += \
     misound_karaokemix_res \
     misound_res_headphone \
     misound_res_spk \
+    liba2dpoffload_odm \
+    libssrec_odm \
     batterysecret \
     init.qcom.sensors \
     sensors.qti \
