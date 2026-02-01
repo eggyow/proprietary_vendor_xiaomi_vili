@@ -6512,7 +6512,7 @@ cc_prebuilt_library_shared {
                 "libFlickerDet",
                 "libmegface",
                 "libMegviiFacepp-0.5.2",
-                "libtinyxml2",
+                "libtinyxml2-v34",
                 "libz",
                 "libdl",
                 "libc",
